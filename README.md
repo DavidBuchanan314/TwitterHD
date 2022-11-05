@@ -16,3 +16,5 @@ Click "Load temporary add-on", and select the manifest file.
 - Chrome instructions
 
 - Package it properly and get it in the various extension stores?
+
+- See if something similar can be done to Twitter's videos
