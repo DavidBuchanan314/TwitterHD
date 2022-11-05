@@ -1,0 +1,16 @@
+{
+
+	"manifest_version": 2,
+	"name": "TwitterHD",
+	"version": "1.0",
+
+	"description": "Always load Twitter images in maximum available resolution",
+
+	"content_scripts": [
+		{
+			"matches": ["*://*.twitter.com/*"],
+			"js": ["twitterhd.js"]
+		}
+	]
+
+}
