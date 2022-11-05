@@ -13,7 +13,7 @@ Click "Load temporary add-on", and select the manifest file.
 
 ## Installation (Userscript - tested with Violentmonkey)
 
-Visit [This Link](https://github.com/enbyautumn/TwitterHD/raw/main/twitterhd.user.js) to automatically install
+Visit [This Link](twitterhd.user.js) to automatically install
 
 Or use the twitterhd.user.js file to manually install
 
