@@ -5,6 +5,8 @@ Tested in desktop Firefox
 
 ## Installation (Userscript - tested with Violentmonkey, Tampermonkey)
 
+First, install an extension for managing userscripts, such as Tampermonkey.
+
 Visit [This Link](https://raw.githubusercontent.com/DavidBuchanan314/TwitterHD/main/twitterhd.user.js) to automatically install.
 
 Or use the twitterhd.user.js file to manually install
